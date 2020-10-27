@@ -7,7 +7,7 @@ trigger:
 
 pool:
   name : RudiPoolHambrock
-#  vmImage: 'ubuntu-18.04'
+##  vmImage: 'ubuntu-18.04'
   demands:
     - npm
 
